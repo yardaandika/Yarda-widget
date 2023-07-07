@@ -79,7 +79,7 @@ header {
 
 .navbar-toggler {
   border: none;
-  outline: navajowhite;
+  outline: none;
 }
 
 .nav-item {
@@ -103,7 +103,7 @@ header {
 }
 
 .py-4 {
-  padding-top: 0rem;
+  padding-top: 2rem;
   padding-bottom: 2rem;
 }
 </style>
